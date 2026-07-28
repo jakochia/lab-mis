@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+.admin-container {
+    display: flex;
+}
+.sidebar {
+    width: 250px;
+    background-color: #000; /* Kenyan black */
+    color: #fff;
+    height: 100vh;
+    position: fixed;
+    padding: 20px;
+}
+.sidebar ul {
+    list-style: none;
+    margin-top: 20px;
+}
+.sidebar li {
+    margin: 15px 0;
+}
+.sidebar a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 5px;
+}
+.sidebar a:hover {
+    background-color: #BB0000; /* Kenyan red */
+}
+.content {
+    margin-left: 250px;
+    padding: 20px;
+    width: 100%;
+}
+.card {
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.bg-red {
+    background-color: #BB0000;
+}
+.bg-green {
+    background-color: #006B3F;
+}
+.btn {
+    display: inline-block;
+    padding: 8px 12px;
+    background-color: #BB0000;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+}
+.btn:hover {
+    background-color: #8B0000;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}

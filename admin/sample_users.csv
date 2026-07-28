@@ -1,0 +1,53 @@
+username,email,full_name,role,password,security_question,security_answer
+john_doe,john@example.com,John Doe,student,pass123,What is your pet's name?,Fluffy
+jane_smith,jane@example.com,Jane Smith,student,secure456,What is your favorite color?,Blue
+admin2,admin2@example.com,Admin Two,admin,admin123,What is your birth city?,Nairobi
+emily_clark,emily.clark@example.com,Emily Clark,student,student123,What is your pet's name?,Max
+michael_brown,michael.brown@example.com,Michael Brown,student,student123,What is your favorite color?,Green
+sarah_wilson,sarah.wilson@example.com,Sarah Wilson,student,student123,What is your birth city?,Austin
+david_martinez,david.martinez@example.com,David Martinez,student,student123,What is your mother's maiden name?,Garcia
+laura_rodriguez,laura.rodriguez@example.com,Laura Rodriguez,student,student123,What is your pet's name?,Luna
+james_anderson,james.anderson@example.com,James Anderson,student,student123,What is your favorite color?,Blue
+olivia_taylor,olivia.taylor@example.com,Olivia Taylor,student,student123,What is your birth city?,Seattle
+daniel_thomas,daniel.thomas@example.com,Daniel Thomas,student,student123,What is your mother's maiden name?,Johnson
+isabella_moore,isabella.moore@example.com,Isabella Moore,student,student123,What is your pet's name?,Charlie
+matthew_jackson,matthew.jackson@example.com,Matthew Jackson,student,student123,What is your favorite color?,Purple
+sophia_white,sophia.white@example.com,Sophia White,student,student123,What is your birth city?,Denver
+ethan_harris,ethan.harris@example.com,Ethan Harris,student,student123,What is your mother's maiden name?,Lee
+amelia_martin,amelia.martin@example.com,Amelia Martin,student,student123,What is your pet's name?,Bella
+alexander_thompson,alexander.thompson@example.com,Alexander Thompson,student,student123,What is your favorite color?,Red
+mia_garcia,mia.garcia@example.com,Mia Garcia,student,student123,What is your birth city?,Portland
+benjamin_robinson,benjamin.robinson@example.com,Benjamin Robinson,student,student123,What is your mother's maiden name?,Hernandez
+charlotte_clark,charlotte.clark@example.com,Charlotte Clark,student,student123,What is your pet's name?,Daisy
+lucas_lewis,lucas.lewis@example.com,Lucas Lewis,student,student123,What is your favorite color?,Yellow
+amanda_walker,amanda.walker@example.com,Amanda Walker,student,student123,What is your birth city?,Boston
+henry_hall,henry.hall@example.com,Henry Hall,student,student123,What is your mother's maiden name?,Allen
+emma_allen,emma.allen@example.com,Emma Allen,student,student123,What is your pet's name?,Rocky
+william_young,william.young@example.com,William Young,student,student123,What is your favorite color?,Orange
+grace_hernandez,grace.hernandez@example.com,Grace Hernandez,student,student123,What is your birth city?,Phoenix
+jack_king,jack.king@example.com,Jack King,student,student123,What is your mother's maiden name?,Scott
+lily_wright,lily.wright@example.com,Lily Wright,student,student123,What is your pet's name?,Coco
+samuel_lopez,samuel.lopez@example.com,Samuel Lopez,student,student123,What is your favorite color?,Pink
+victoria_hill,victoria.hill@example.com,Victoria Hill,student,student123,What is your birth city?,Dallas
+dylan_scott,dylan.scott@example.com,Dylan Scott,student,student123,What is your mother's maiden name?,Nelson
+natalie_green,natalie.green@example.com,Natalie Green,student,student123,What is your pet's name?,Oliver
+andrew_adams,andrew.adams@example.com,Andrew Adams,student,student123,What is your favorite color?,Brown
+madison_baker,madison.baker@example.com,Madison Baker,student,student123,What is your birth city?,Atlanta
+christopher_gonzalez,christopher.gonzalez@example.com,Christopher Gonzalez,student,student123,What is your mother's maiden name?,Rivera
+chloe_nelson,chloe.nelson@example.com,Chloe Nelson,student,student123,What is your pet's name?,Leo
+joseph_carter,joseph.carter@example.com,Joseph Carter,student,student123,What is your favorite color?,Cyan
+zoe_mitchell,zoe.mitchell@example.com,Zoe Mitchell,student,student123,What is your birth city?,Miami
+ryan_perez,ryan.perez@example.com,Ryan Perez,student,student123,What is your mother's maiden name?,Roberts
+hannah_roberts,hannah.roberts@example.com,Hannah Roberts,student,student123,What is your pet's name?,Milo
+nathan_turner,nathan.turner@example.com,Nathan Turner,student,student123,What is your favorite color?,Silver
+avery_phillips,avery.phillips@example.com,Avery Phillips,student,student123,What is your birth city?,San Diego
+elijah_campbell,elijah.campbell@example.com,Elijah Campbell,student,student123,What is your mother's maiden name?,Stewart
+leah_parker,leah.parker@example.com,Leah Parker,student,student123,What is your pet's name?,Ruby
+gabriel_evans,gabriel.evans@example.com,Gabriel Evans,student,student123,What is your favorite color?,Gold
+audrey_edwards,audrey.edwards@example.com,Audrey Edwards,student,student123,What is your birth city?,San Francisco
+carter_collins,carter.collins@example.com,Carter Collins,student,student123,What is your mother's maiden name?,Murphy
+ellie_stewart,ellie.stewart@example.com,Ellie Stewart,student,student123,What is your pet's name?,Ziggy
+julian_morris,julian.morris@example.com,Julian Morris,student,student123,What is your favorite color?,Teal
+layla_rogers,layla.rogers@example.com,Layla Rogers,student,student123,What is your birth city?,Nashville
+isaac_reed,isaac.reed@example.com,Isaac Reed,student,student123,What is your mother's maiden name?,Cook
+scarlett_cook,scarlett.cook@example.com,Scarlett Cook,student,student123,What is your pet's name?,Simba
